@@ -1,0 +1,10 @@
+Flask
+MarkupSafe==2.1.1
+decorator==5.1.1
+itsdangerous==2.1.2
+six==1.16.0
+brotlipy==0.7.0
+raven[flask]==6.10.0
+werkzeug<2.1.0
+gevent==22.10.1
+flasgger==0.9.5
